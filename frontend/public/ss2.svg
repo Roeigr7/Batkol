@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2200 400" style="enable-background:new 0 0 2200 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_4_);}
+	.st1{fill:url(#XMLID_5_);}
+	.st2{fill:url(#XMLID_6_);}
+	.st3{fill:url(#XMLID_7_);}
+</style>
+<g id="XMLID_1_">
+	
+		<radialGradient id="XMLID_4_" cx="940.4413" cy="264.5787" r="530.8516" gradientTransform="matrix(1.5384 0 0 1 -360.6797 0)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#E97C24"/>
+		<stop  offset="1" style="stop-color:#C73B2C"/>
+	</radialGradient>
+	<path id="XMLID_3_" class="st0" d="M1860.2,66.2c-832,4.8-978.4,192.8-1184,221.6C475.7,315.9,25,270.9,3.2,268.7l-26,112.5l-0.8,0
+		l-4.1,17.9l1762.4,64C1734.7,463,2692.2,61.4,1860.2,66.2z"/>
+	
+		<radialGradient id="XMLID_5_" cx="1319.2562" cy="91.7686" r="246.1637" gradientTransform="matrix(1.5384 0 0 1 -360.6797 0)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#E97C24"/>
+		<stop  offset="1" style="stop-color:#C73B2C"/>
+	</radialGradient>
+	<path id="XMLID_9_" class="st1" d="M2199.9,136.6c3.9-52.4-82.6-98.2-339.7-88.4c-336.2,12.8-561,48.9-722.4,88.5
+		c161.6-39.4,386.3-71.5,723.9-73.5C2093.9,61.9,2186.7,92.2,2199.9,136.6z"/>
+	
+		<radialGradient id="XMLID_6_" cx="966.9833" cy="139.3802" r="5.3436" gradientTransform="matrix(1.5384 0 0 1 -360.6797 0)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#E97C24"/>
+		<stop  offset="1" style="stop-color:#C73B2C"/>
+	</radialGradient>
+	<path id="XMLID_10_" class="st2" d="M1116.1,142.1c7.1-1.8,14.3-3.6,21.7-5.4C1130.4,138.5,1123.2,140.3,1116.1,142.1z"/>
+	
+		<radialGradient id="XMLID_7_" cx="588.1656" cy="261.623" r="276.1307" gradientTransform="matrix(1.5384 0 0 1 -360.6797 0)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#E97C24"/>
+		<stop  offset="1" style="stop-color:#C73B2C"/>
+	</radialGradient>
+	<path id="XMLID_11_" class="st3" d="M3.2,268.7l0.7-3.1c0,0,468.3,48,673.8,19.2c118.3-16.6,217.1-85.9,438.3-142.7
+		c-227.4,58.1-324.2,121.5-439.9,127.7C466.7,281.1,2.4,250.6,2.4,250.6L-27.8,381l4.1,0.1l26-112.5C2.4,268.6,2.7,268.6,3.2,268.7z
+		"/>
+</g>
+</svg>
